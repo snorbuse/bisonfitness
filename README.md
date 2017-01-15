@@ -296,3 +296,17 @@ Striktpress: ?
 - For time/chipper
 - Not for time
 
+### Woddar
+
+```
+21-15-9
+- Dödslyft 60kg
+- Lat. burpees
+- Wall balls
+```
+
+```
+21-15-19 (remake 16.5)
+- Thrusters, 42,5kg
+- Barfacing burpees
+```
