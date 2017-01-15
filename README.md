@@ -54,11 +54,46 @@ For time, 21-15-9
 
 ## Vecka 2
 65% av 1RM 6-6-4-4 + amrap 50%
+
+### Måndag
+Marklyft, 65% (104 kg) av 1RM 6-6-4-4 + amrap 50% (80kg)
+
+w/u, good mornings
+
 ```
-Marklyft: 104 kg
-Backsquat: 85 kg
-Bänkpress: 52 kg
-Striktpress: 42,25 kg
+15.1, 9 min AMRAP
+- 15 t2b
+- 10 dödslyft, 52,5kg 
+- 5 snatch, 52,5kg
+```
+
+### Tisdag
+Bänkpress, 65% (52 kg) av 1RM 6-6-4-4 + amrap 50% (40kg)
+
+```
+6 RFT
+- 10 kb clean 2x20kg
+- 10 kb OHS 2x20kg
+- 10 push ups
+```
+
+### Torsdag
+Backsquat, 65% (85 kg) av 1RM 6-6-4-4 + amrap 50% (65kg)
+```
+8 RFT
+- 10/10 ryska enarmssvingar 20kg
+- 5 cal assault bike
+```
+
+### Fredag
+Strikpress, 65% (42,25 kg) av 1RM 6-6-4-4 + amrap 50% (32,5kg)
+
+w/u, sotspressar 20kg 6-6-4-4
+Cool down, klokovpressar, 5-5-5 40kg
+
+```
+Bear complex, 5 RNFT (rounds not for time) av
+- 7 reps unbroken av {1 PC, 1 FS, 1 push press, 1 BS, 1 push press} 60kg
 ```
 
 
@@ -70,6 +105,27 @@ Backsquat: 75, 85, 91, 97,5, 104 kg
 Bänkpress: 48, 52, 56, 60, 64
 Striktpress: 40, 42,5, 45, 48,75, 52 kg
 ```
+
+### Måndag
+Bänkpress, Börja på 60% och bygg till 80% av 1RM, 5-4-3-2-1 (60-65-70-75-80%). 48, 52, 56, 60 och 64 kg. 
+
+```
+21-15-9
+- Power clean, 42,5kg
+- t2b
+```
+
+### Tisdag
+Backsquat, Börja på 60% och bygg till 80% av 1RM, 5-4-3-2-1 (60-65-70-75-80%). 75, 85, 91, 97,5, 104 kg.
+
+### Torsdag
+Striktpress, Börja på 60% och bygg till 80% av 1RM, 5-4-3-2-1 (60-65-70-75-80%). 40, 42,5, 45, 48,75 och 52 kg.
+
+### Fredag
+Marklyft, Börja på 60% och bygg till 80% av 1RM, 5-4-3-2-1 (60-65-70-75-80%). 96, 104, 112, 120 och 128 kg.
+
+
+
 
 ## Vecka 4 
 Gå ner i vikt, men öka antalet reps. 70% av 1RM, 8-8-6-6-4 + amrap 55%
