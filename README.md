@@ -111,20 +111,38 @@ Bänkpress, Börja på 60% och bygg till 80% av 1RM, 5-4-3-2-1 (60-65-70-75-80%)
 
 ```
 21-15-9
-- Power clean, 42,5kg
-- t2b
+    Power clean, 42,5kg
+    t2b
+TC 10 min
 ```
 
 ### Tisdag
 Backsquat, Börja på 60% och bygg till 80% av 1RM, 5-4-3-2-1 (60-65-70-75-80%). 75, 85, 91, 97,5, 104 kg.
+```
+15 min AMRAP
+    15 Goblet squat, 32kg
+    15 am. kb-sving, 32kg
+Mål 8 varv
+```
 
-### Torsdag
+### Onsdag
 Striktpress, Börja på 60% och bygg till 80% av 1RM, 5-4-3-2-1 (60-65-70-75-80%). 40, 42,5, 45, 48,75 och 52 kg.
+```
+10, 9, 8...1
+    Thrusters 42,5kg
+    Pull ups
+TC 9 min
+```
 
 ### Fredag
 Marklyft, Börja på 60% och bygg till 80% av 1RM, 5-4-3-2-1 (60-65-70-75-80%). 96, 104, 112, 120 och 128 kg.
-
-
+```
+21-15-9
+    Dödslyft 60kg
+    Lat. burpees
+    Wall balls
+TC 11 min
+```
 
 
 ## Vecka 4 
