@@ -152,6 +152,7 @@ Bänkpress, 8-6-4-2-1 (65-70-75-80-85% av 1RM) 52, 56, 60, 64, 68 kg och tillbak
 
 ```
 6/6 turkish get ups, KB - AHAFA
+Kipping pull up drills, 011-style
 ```
 
 ### Onsdag
@@ -188,9 +189,9 @@ Backsquat 8-6-4-2-1 (65-70-75-80-85% av 1RM) 85, 91, 97,5, 104, 110kg och tillba
 Vila ca 3-4 min mellan setten. Sikta på sub 1:30 min i rodden.
 ```
 
-
-## Vecka 4b
-Gå ner i vikt, men öka antalet reps. 70% av 1RM, 8-8-6-6-4 + amrap 55%
+## Vecka 5
+Gå ner i vikt, men öka antalet reps. 70% av 1RM, 8-8-6-6-4 + amrap 60%
+Det här är veckan med JFokus, så det finns bara två träningsdagar, så kör kompakt.
 ```
 Marklyft: 112 kg, 88kg  
 Backsquat: 91kg, 71,5
@@ -198,7 +199,28 @@ Bänkpress: 56kg, 44kg
 Striktpress: 45,5kg, 35,75kg
 ```
 
-## Vecka 5 
+### Torsdag
+Marklyft: 70% (112 kg) av 1RM, 8-8-6-6-4 + amrap 60% (97,5kg)
+Bänkpress:  70% (56kg) av 1RM, 8-8-6-6-4 + amrap 60% (47,5kg)
+```
+3x4 min AMRAP, 2 min vila mellan setten
+- 5/5 OHS KB, 20kg
+- 5 Pull ups
+- 5 Push ups
+- 5 Sit ups
+```
+
+### Fredag
+Striktpress: 70% (45,5kg) av 1RM, 8-8-6-6-4 + amrap 60% (40kg)
+Backsquat: 70% (91kg) av 1RM, 8-8-6-6-4 + amrap 60% (77,5kg)
+```
+3x4 min AMRAP, 2 min vila mellan setten
+- 10 Bicepscurls 30kg
+- 10 Push press, 30kg
+- 10 Boxhopp
+```
+
+## Vecka 6 
 Tunga vikter och många reps. Börja på 70% av 1RM och bygg till 85% i en stege 8-6-4-2-4-6-8 (70-75-80-85% och tillbaka)
 ```
 Marklyft: 112, 120, 128, 136kg
@@ -207,7 +229,7 @@ Bänkpress: 56, 60, 64, 68
 Striktpress: 45,5, 48,75, 52, 55,25kg
 ```
 
-## Vecka 6 
+## Vecka 7 
 Lätta på vikterna och antalet reps för att kroppen ska få lite vila. 75% av 1RM, 5-5-5-5-5
 ```
 Marklyft: 120 kg
@@ -216,7 +238,7 @@ Bänkpress: 60kg
 Striktpress: 48,75 kg
 ```
 
-## Vecka 7 
+## Vecka 8
 Tunga vikter för att överraska kroppen efter förra veckans lättare vikter. Börja på 75% av 1RM och bygg till 
 95%  i en stege 5-4-3-2-1-2-3-4-5 (75-80-85-90-95% och tillbaka)
 ```
@@ -225,7 +247,7 @@ Backsquat: 97,5, 104, 110, 117, 123
 Bänkpress: 60, 64, 68, 72
 Striktpress: 48,75, 52, 55, 58,5, 61,75 kg
 ```
-## Vecka 8 
+## Vecka 9 
 Lättare vikter och väldigt få reps för att kroppen ska kunna få vila upp sig ordentligt. Kör på ca
 75~80% av 1RM, 5-5-5 
 ```
@@ -235,7 +257,7 @@ Bänkpress: 60~64 kg
 Striktpress: 48,75~52 kg
 ```
 
-## Vecka 9 
+## Vecka 10
 Låt kroppen få arbeta igen och chocka lite den efter föregående veckas vila. 
 Börja på 85% av 1RM och öka till 95% 6-6-4-4-2 + amrap 70% 
 ```
@@ -245,7 +267,7 @@ Bänkpress: 68, 72, 76 kg
 Striktpress: 55,25, 58,5, 61,75 kg
 ```
 
-## Vecka 10 
+## Vecka 11
 Lättare vikter igen så att kroppen kan få bygga muskler och för att inte slita ut kroppen inför kommande maxning.
 Kör på ca 75~80% av 1RM, 5-5-5 
 ```
@@ -255,7 +277,7 @@ Bänkpress: 60, 64 kg
 Striktpress: 48,75, 52 kg
 ```
 
-## Vecka 11 
+## Vecka 12 
 Börja känn på (gamla) PR-vikterna för att kroppen ska få vänja sig vid vikterna igen, så att kroppen
 inte shockas vid nästa veckas PR-försök. Börja på 80% av 1RM och öka till 95%, 4-2-2-1+ (sista settet ska vara minst 1 
 rep, får maxa reppa om jag vill) + AMRAP ca 65~70%
@@ -267,7 +289,7 @@ Backsquat: 104, 110, 117, 123
 Bänkpress: 64, 68, 72, 76
 Striktpress: 52, 55, 58,7, 61,75 kg
 ```
-## Vecka 12 
+## Vecka 13 
 PR vecka, go for max! Kör rätt ca 6-8 reps @50%, för att sen öka vikten rätt snabbt och hålla repsen nere. 
 Du vill värma upp kroppen rejält, men du vill inte köra slut på den direkt.
 
