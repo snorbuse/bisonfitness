@@ -144,8 +144,52 @@ Marklyft, Börja på 60% och bygg till 80% av 1RM, 5-4-3-2-1 (60-65-70-75-80%). 
 TC 11 min
 ```
 
-
 ## Vecka 4 
+Stege för att bygga volym, 8-6-4-2-1 (65-70-75-80-85% av 1RM) och sen tillbaka.
+
+### Tisdag
+Bänkpress, 8-6-4-2-1 (65-70-75-80-85% av 1RM) 52, 56, 60, 64, 68 kg och tillbaka igen.
+
+```
+6/6 turkish get ups, KB - AHAFA
+```
+
+### Onsdag
+Marklyft: 8-6-4-2-1 (65-70-75-80-85% av 1RM) 104, 112, 120, 128, 136kg och tillbaka igen
+
+```
+9-6-3
+- Squat Cleans 70kg
+- C2B
+- Sit ups
+TC 5 min
+Vila lika länge som wodden tog och sen:
+12-9-6
+- Squat cleans 60kg
+- Pull ups
+- Sit ups
+TC 5 min
+```
+
+### Torsdag
+Strikpress 8-6-4-2-1 (65-70-75-80-85% av 1RM) 42,5, 45,5, 48,75, 52, 55,25kg och tillbaka igen.
+```
+4 RFT
+- 200m rodd
+- 10 push ups
+- 10 OHS 52,5kg
+```
+
+### Fredag
+Backsquat 8-6-4-2-1 (65-70-75-80-85% av 1RM) 85, 91, 97,5, 104, 110kg och tillbaka igen.
+
+```
+2x500m row, max effort. 
+Vila ca 3-4 min mellan setten. Sikta på sub 1:30 min i rodden.
+```
+
+
+## Vecka 4b
 Gå ner i vikt, men öka antalet reps. 70% av 1RM, 8-8-6-6-4 + amrap 55%
 ```
 Marklyft: 112 kg, 88kg  
@@ -153,6 +197,7 @@ Backsquat: 91kg, 71,5
 Bänkpress: 56kg, 44kg
 Striktpress: 45,5kg, 35,75kg
 ```
+
 ## Vecka 5 
 Tunga vikter och många reps. Börja på 70% av 1RM och bygg till 85% i en stege 8-6-4-2-4-6-8 (70-75-80-85% och tillbaka)
 ```
