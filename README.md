@@ -347,10 +347,12 @@ Striktpress: ?
 - Double unders
 - Push ups
 - Sit ups
+- Sit ups med wallball
 - Turkis get ups
 - Slam balls
 - Slam balls over shoulder
 - GHD
+- Wallballs
 
 
 - Amrap
