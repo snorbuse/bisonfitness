@@ -144,10 +144,41 @@ Marklyft, Börja på 60% och bygg till 80% av 1RM, 5-4-3-2-1 (60-65-70-75-80%). 
 TC 11 min
 ```
 
-## Vecka 4 <--- 
+## Vecka 4 <--
+Gå ner i vikt, men öka antalet reps. 70% av 1RM, 8-8-6-6-4 + amrap 60%
+Det här är veckan med JFokus, så det finns bara två träningsdagar, så kör kompakt.
+```
+Marklyft: 112 kg, 88kg  
+Backsquat: 91kg, 71,5
+Bänkpress: 56kg, 44kg
+Striktpress: 45,5kg, 35,75kg
+```
+
+### Torsdag
+Marklyft: 70% (112 kg) av 1RM, 8-8-6-6-4 + amrap 60% (97,5kg)
+Bänkpress:  70% (56kg) av 1RM, 8-8-6-6-4 + amrap 60% (47,5kg)
+```
+3x4 min AMRAP, 2 min vila mellan setten
+- 5/5 OHS KB, 20kg
+- 5 Pull ups
+- 5 Push ups
+- 5 Sit ups
+```
+
+### Fredag
+Striktpress: 70% (45,5kg) av 1RM, 8-8-6-6-4 + amrap 60% (40kg)
+Backsquat: 70% (91kg) av 1RM, 8-8-6-6-4 + amrap 60% (77,5kg)
+```
+3x4 min AMRAP, 2 min vila mellan setten
+- 10 Bicepscurls 30kg
+- 10 Push press, 30kg
+- 10 Boxhopp
+```
+
+## Vecka 5
 Stege för att bygga volym, 8-6-4-2-1 (65-70-75-80-85% av 1RM) och sen tillbaka.
 
-### Tisdag
+### Måndag
 Bänkpress, 8-6-4-2-1 (65-70-75-80-85% av 1RM) 52, 56, 60, 64, 68 kg och tillbaka igen.
 
 ```
@@ -155,7 +186,7 @@ Bänkpress, 8-6-4-2-1 (65-70-75-80-85% av 1RM) 52, 56, 60, 64, 68 kg och tillbak
 Kipping pull up drills, 011-style
 ```
 
-### Onsdag
+### Tisdag
 Marklyft: 8-6-4-2-1 (65-70-75-80-85% av 1RM) 104, 112, 120, 128, 136kg och tillbaka igen
 
 ```
@@ -189,36 +220,6 @@ Backsquat 8-6-4-2-1 (65-70-75-80-85% av 1RM) 85, 91, 97,5, 104, 110kg och tillba
 Vila ca 3-4 min mellan setten. Sikta på sub 1:30 min i rodden.
 ```
 
-## Vecka 5
-Gå ner i vikt, men öka antalet reps. 70% av 1RM, 8-8-6-6-4 + amrap 60%
-Det här är veckan med JFokus, så det finns bara två träningsdagar, så kör kompakt.
-```
-Marklyft: 112 kg, 88kg  
-Backsquat: 91kg, 71,5
-Bänkpress: 56kg, 44kg
-Striktpress: 45,5kg, 35,75kg
-```
-
-### Torsdag
-Marklyft: 70% (112 kg) av 1RM, 8-8-6-6-4 + amrap 60% (97,5kg)
-Bänkpress:  70% (56kg) av 1RM, 8-8-6-6-4 + amrap 60% (47,5kg)
-```
-3x4 min AMRAP, 2 min vila mellan setten
-- 5/5 OHS KB, 20kg
-- 5 Pull ups
-- 5 Push ups
-- 5 Sit ups
-```
-
-### Fredag
-Striktpress: 70% (45,5kg) av 1RM, 8-8-6-6-4 + amrap 60% (40kg)
-Backsquat: 70% (91kg) av 1RM, 8-8-6-6-4 + amrap 60% (77,5kg)
-```
-3x4 min AMRAP, 2 min vila mellan setten
-- 10 Bicepscurls 30kg
-- 10 Push press, 30kg
-- 10 Boxhopp
-```
 
 ## Vecka 6 
 Tunga vikter och många reps. Börja på 70% av 1RM och bygg till 85% i en stege 8-6-4-2-4-6-8 (70-75-80-85% och tillbaka)
