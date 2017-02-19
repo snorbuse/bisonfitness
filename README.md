@@ -144,7 +144,7 @@ Marklyft, Börja på 60% och bygg till 80% av 1RM, 5-4-3-2-1 (60-65-70-75-80%). 
 TC 11 min
 ```
 
-## Vecka 4 <--
+## Vecka 4 
 Gå ner i vikt, men öka antalet reps. 70% av 1RM, 8-8-6-6-4 + amrap 60%
 Det här är veckan med JFokus, så det finns bara två träningsdagar, så kör kompakt.
 ```
@@ -220,23 +220,51 @@ Backsquat 8-6-4-2-1 (65-70-75-80-85% av 1RM) 85, 91, 97,5, 104, 110kg och tillba
 Vila ca 3-4 min mellan setten. Sikta på sub 1:30 min i rodden.
 ```
 
-
-## Vecka 6 
-Tunga vikter och många reps. Börja på 70% av 1RM och bygg till 85% i en stege 8-6-4-2-4-6-8 (70-75-80-85% och tillbaka)
-```
-Marklyft: 112, 120, 128, 136kg
-Backsquat: 91, 97,5, 104, 110
-Bänkpress: 56, 60, 64, 68
-Striktpress: 45,5, 48,75, 52, 55,25kg
-```
-
-## Vecka 7 
+## Vecka 6  <--
 Lätta på vikterna och antalet reps för att kroppen ska få lite vila. 75% av 1RM, 5-5-5-5-5
 ```
 Marklyft: 120 kg
 Backsquat: 97kg
 Bänkpress: 60kg
 Striktpress: 48,75 kg
+```
+
+### Måndag
+Backsquat: 97kg. 75% av 1RM, 5-5-5-5-5
+```
+Roddintervaller, 4 sets av: 
+1 min off, 4 min off
+```
+### Tisdag
+Striktpress: 48,75 kg. 75% av 1RM, 5-5-5-5-5
++ klokovpressar
++ sotspressar
+```
+Doris, 150 kb am.svingar, 24kg, for time
+```
+
+### Torsdag
+Marklyft: 120 kg. 75% av 1RM, 5-5-5-5-5
+```
+21-15-19 (remake 16.5)
+- Thrusters, 42,5kg
+- Barfacing burpees
+```
+
+### Fredag
+Bänkpress: 60kg. 75% av 1RM, 5-5-5-5-5
+```
+Helen, 150 wallballs for time
+```
+
+
+## Vecka 7
+Tunga vikter och många reps. Börja på 70% av 1RM och bygg till 85% i en stege 8-6-4-2-4-6-8 (70-75-80-85% och tillbaka)
+```
+Marklyft: 112, 120, 128, 136kg
+Backsquat: 91, 97,5, 104, 110
+Bänkpress: 56, 60, 64, 68
+Striktpress: 45,5, 48,75, 52, 55,25kg
 ```
 
 ## Vecka 8
