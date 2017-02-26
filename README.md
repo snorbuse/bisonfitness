@@ -220,7 +220,7 @@ Backsquat 8-6-4-2-1 (65-70-75-80-85% av 1RM) 85, 91, 97,5, 104, 110kg och tillba
 Vila ca 3-4 min mellan setten. Sikta på sub 1:30 min i rodden.
 ```
 
-## Vecka 6  <--
+## Vecka 6 
 Lätta på vikterna och antalet reps för att kroppen ska få lite vila. 75% av 1RM, 5-5-5-5-5
 ```
 Marklyft: 120 kg
@@ -254,11 +254,10 @@ Marklyft: 120 kg. 75% av 1RM, 5-5-5-5-5
 ### Fredag
 Bänkpress: 60kg. 75% av 1RM, 5-5-5-5-5
 ```
-Helen, 150 wallballs for time
+Karen, 150 wallballs for time
 ```
 
-
-## Vecka 7
+## Vecka 7  <--
 Tunga vikter och många reps. Börja på 70% av 1RM och bygg till 85% i en stege 8-6-4-2-4-6-8 (70-75-80-85% och tillbaka)
 ```
 Marklyft: 112, 120, 128, 136kg
@@ -266,6 +265,41 @@ Backsquat: 91, 97,5, 104, 110
 Bänkpress: 56, 60, 64, 68
 Striktpress: 45,5, 48,75, 52, 55,25kg
 ```
+
+### Måndag
+Striktpress, 8-6-4-2-4-6-8 (70-75-80-85% och tillbaka). 45,5, 48,75, 52, 55,25kg
+
+```
+12 min AMRAP
+- 10 42,5 kg OHS
+- 20 Jumping lunges
+- 10 Pull ups
+
+```
+
+### Tisdag
+Backsquat, 8-6-4-2-4-6-8 (70-75-80-85% och tillbaka). 91, 97,5, 104, 110
+```
+5 RFT @50kg
+- 15 Dödslyft
+- 10 Hang power cleans
+- 5 Push press
+```
+
+### Onsdag
+Dödslyft, 8-6-4-2-4-6-8 (70-75-80-85% och tillbaka). 112, 120, 128, 136kg
+```
+21-15-9
+- 3xDU (63, 45, 27)
+- Rodd
+```
+
+### Torsdag
+Bänkpress, 8-6-4-2-4-6-8 (70-75-80-85% och tillbaka). 56, 60, 64, 68kg
+```
+Mobility inför open
+```
+
 
 ## Vecka 8
 Tunga vikter för att överraska kroppen efter förra veckans lättare vikter. Börja på 75% av 1RM och bygg till 
